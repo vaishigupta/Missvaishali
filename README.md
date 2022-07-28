@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Missvaishali
-- 👀 I’m interested in singing ,reading books ,doing new researches ,solving maths problems ,listening music ,etc
+- 👋 Hi, I’m vaishali
 - 💞️ I’m looking to collaborate on github
 - 📫 vaishaligarg1141@gmail.com
 
